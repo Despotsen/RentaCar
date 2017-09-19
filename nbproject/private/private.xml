@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/PresekDva/assets/js/bootstrap.js</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/app/models/RentalModel.php</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/index.php</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/sys/DataBase.php</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/app/views/_global/menu-no-session.php</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/app/controllers/MainController.php</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/app/views/Car/delete.php</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/sys/Controller.php</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/app/models/CostumerModel.php</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/Configuration.php</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/app/controllers/CarController.php</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/app/views/Rental/index.php</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/assets/css/style.css</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/sys/Misc.php</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/app/views/Car/add.php</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/app/views/Main/login.php</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/app/views/Costumer/add.php</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/app/models/UserModel.php</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/app/views/_global/menu-session.php</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/sys/Autoload.php</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/app/views/Costumer/edit.php</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/app/views/Costumer/index.php</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/app/controllers/CostumerController.php</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/app/views/Costumer/delete.php</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/app/models/CarModel.php</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/app/models/DoorModel.php</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/app/models/FuelModel.php</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/app/views/Main/index.php</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/app/views/Rental/add.php</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/app/views/_global/afterContent.php</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/app/views/Car/index.php</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/Routes.php</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/assets/js/jquery.js</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/sys/Session.php</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/app/controllers/RentalController.php</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/assets/js/bootstrap.min.js</file>
+            <file>file:/C:/xampp/htdocs/PresekDva/app/views/_global/beforeContent.php</file>
+        </group>
+    </open-files>
+</project-private>
